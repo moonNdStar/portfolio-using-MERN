@@ -1,0 +1,35 @@
+.main{
+    background-color: rgb(35, 88, 78);
+}
+/* input {
+    display: block;
+    width: 200px;
+    padding: 0 20px;
+}
+
+input,
+input::placeholder {
+    font: 20px/3 sans-serif;
+} */
+
+.btn-email{
+    margin-top: 0px;
+    font-size: 20px;
+    color: white;
+}
+
+.label-btn{
+    color: white;
+    font-size: 20px;
+}
+
+.name-btn{
+    margin-top: 50px;
+    font-size: 30px;
+    color: white;
+}
+.btn-btn-form{
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}

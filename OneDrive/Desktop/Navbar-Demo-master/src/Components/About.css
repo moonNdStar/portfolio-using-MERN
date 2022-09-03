@@ -1,0 +1,28 @@
+body{
+   
+    background-color:rgb(35, 88, 78);
+}
+
+.main--heading{
+    margin-top: 200px;
+}
+
+.main--heading>h1{
+    font-size: 60px;
+    color: aliceblue;
+    font-weight: bold
+}
+.container-btn-main-bg{
+    margin-bottom: 106px;
+}
+.btn-full-bg{
+    margin-bottom: 105px;
+    background-color:rgb(35, 88, 78);
+}
+.main--heading>p{
+    font-size: 18px;
+    color: white;
+}
+.btn123{
+    margin-top: 200px;
+}

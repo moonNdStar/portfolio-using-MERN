@@ -1,0 +1,39 @@
+.text-para{
+    color: black;
+}
+
+.head-para{
+    color: black;
+}
+
+.card-title{
+    color: black;
+}
+.card-body{
+    color: black;
+}
+.main-btn-grid{
+    width: 402px;
+}
+.btn{
+    margin-left: 10px;
+    margin-top: 90px;
+    margin-bottom: 30px;
+}
+.main{
+    background-color: rgb(35,88,78);
+}
+img{
+    max-width: 800px;
+    min-width: 400px;
+}
+
+.col-md-3{
+    width: 30px;
+}
+
+
+
+.card img{
+    width: 70%;
+}
